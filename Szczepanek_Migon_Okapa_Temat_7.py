@@ -3,7 +3,6 @@
 
 # Zaimportowanie potrzebnych bibliotek
 
-
 from medpy.io import load
 import numpy as np
 import cv2
